@@ -28,4 +28,4 @@ A: Swipe left on any travel and tap Delete.
 
 ### Contact
 For support inquiries:
-Email: [Your Email] 
+Email: ****
